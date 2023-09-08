@@ -44,7 +44,7 @@ srcnshot 2- [https://drive.google.com/file/d/1_W7fGpjCVVebno4X1DhkLJelFWmHAb3_/v
 
 ## Author
 
-- Frontend Mentor - [@ArjunJayakrishnan]
+- Frontend Mentor - [@ArjunJayakrishnan](https://www.frontendmentor.io/profile/ArjunJayakrishnan)
 
 ## Acknowledgments
 
