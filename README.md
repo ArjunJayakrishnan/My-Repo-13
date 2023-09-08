@@ -1,7 +1,7 @@
 ### Links
 
 - Live Site URL: [https://64fb201778caf205834dca4d--bucolic-phoenix-ea14b4.netlify.app/]
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-13]
 
 # Frontend Mentor - REST Countries API with color theme switcher solution
 
